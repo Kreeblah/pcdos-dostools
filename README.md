@@ -17,8 +17,10 @@ From there, copy the below files to a floppy disk or other location to be used f
     MEMMAKER.EXE  9fd4660ab67f533855a7338399feced63ca434f59c3b799466836f73ea855000
     MEMMAKER.HLP  2f70e0832f9ca524d85cd2749c6945cc3e6f4e01cfc46bba926754931ff26982
     MEMMAKER.INF  5a0caba1f5371024e03189733111c14921ef005ed00c6d8282366ad5002e4c8f
+    PRINT.EXE     fbf666f03287031f4e010de0b9f40db52a9420914c08dc7a51414227f37bc930
     QBASIC.EXE    dbfd7e7d27fea72877c5332551889b3d3c46fc5b72d15e35e232ea611570a2cd
     QBASIC.HLP    8c8d8a9004c18d56e0cd30d22fb17d7351ef7cdca5e1d7407c0b345572235e95
+    RESTORE.EXE   7e298f385a7b7b4559f2325ce7e1a8b75bf90228f3bc6af0764869ce61dad795
     SIZER.EXE     a36286ce956647116beec02bd793a1db92b2448e64e59725aae48328e20dd8e3
 
 Next, extract the files in EBD.CAB from the Windows 98 Second Edition emergency boot disk, and copy the following files to the disk.  Again, SHA256 sums are provided for verification.
